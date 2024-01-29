@@ -1,5 +1,5 @@
 # Second Virial Coefficent for the Lennard-Jones, square-well, and hard-sphere potentials
-Lattice simulator, testing the Bragg-Williams approximation
+Integrator to use for various potentials
 
 Author: Martin Trulsson
 E-mail: martin.trulsson@compchem.lu.se
